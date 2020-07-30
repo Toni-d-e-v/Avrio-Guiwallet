@@ -22,4 +22,4 @@ Avrio cryptonote gui wallet
 by Toni.Dev
 
 donation addr dna:0x6357cdf056b0dca75a14094987fa7eabbd78be5f
-© RedStone,Toni.Dev and CryptoNote devs 2020. All Rights Reserved.
+#### © RedStone,Toni.Dev and CryptoNote devs 2020. All Rights Reserved.
